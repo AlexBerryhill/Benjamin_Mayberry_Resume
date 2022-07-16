@@ -7,23 +7,14 @@ Student, Computer enthusiast, Document Automation Specialist.
 
 <div id="webaddress">
     <a href="Benjamin@Knackly.io">Benjamin@Knackly.io</a>
-    <a href=#>LinkedIn</a>
+    <a href=''>LinkedIn</a>
     <a href="https://github.com/BenjaminMayberry">GitHub</a>
 </div>
 
 
 ## Currently
 
-Studying at BYU-I and Working as a Document Automation Specialist.
-
-### Skills
-
-Automation of legal documents for law firms
-
-### Research interests
-
-Makeing doucument automation faster.
-
+Studying at BYU-I and Working as a Document Automation Specialist. I am the best in Automation of legal documents for law firms. I want to research Making doucument automation faster.
 
 ## Education
 
